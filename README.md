@@ -334,7 +334,3 @@ Some sample insights you might derive (replace with your actual findings):
 ## 13. Acknowledgments
 
 - **Dataset:** Open Sourcing Mental Illness (OSMI) – Mental Health in Tech Survey (via Kaggle).
-
-***
-
-If you share your GitHub repo link later, this README can be slightly adjusted to match your exact file names and results.
